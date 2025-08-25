@@ -13,8 +13,7 @@ Sou estudante de **Administração** e **Análise e Desenvolvimento de Sistemas 
 - Git & GitHub
 
 ## 📌 Projetos
-- [Sistema de Cadastro de Clientes (acadêmico)](link do repositório)
-- [Projeto de Exemplo baseado em código aberto](link do repositório)
+- [Sistema de Cadastro de Clientes (acadêmico)] https://github.com/nicolebiase/Sistema-de-Cadastro-Clientes/blob/main/README.md?plain=1
 
 📫 **Conecte-se comigo:**
 www.linkedin.com/in/kathlennicoleb
